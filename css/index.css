@@ -1,0 +1,41 @@
+html, body, section{
+    height: 100%;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+body{
+    background-image: url(../imagenes_davis/davis_.jpg);
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+section{
+    padding-top: 66px;
+}
+
+h1{
+    color: #24cc0c;
+    text-align: center;
+}
+
+p{
+    color: #24cc0c;
+    text-align: center;
+}
+
+
+span{
+    background-color: #2a2c29;
+}
+
+
+footer{
+    color: whitesmoke;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}

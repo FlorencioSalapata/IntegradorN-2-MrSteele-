@@ -1,0 +1,11 @@
+@media screen and ( min-width: 300px) and (max-width: 740px) {
+
+    h2{
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .center{
+        align-self: center;
+    }
+}
